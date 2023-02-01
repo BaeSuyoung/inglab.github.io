@@ -13,6 +13,7 @@ sitemap: false
 
 ### Journal Articles
 <!-- 4-pdf, 5-link -->
+1. Jang, J., Lim, D., Seong, C., Lee, J., Park, J.-G., & Cheong, Y.-G. (2022). Evaluating Unsupervised Deep Learning Models for Network Intrusion Detection Using Real Security Event Data. International Journal of Advanced Smart Convergence, 11(4), 10–19. https://doi.org/10.7236/IJASC.2022.11.4.10
 1. Song Y, Hyun S, Cheong Y-G. Analysis of Autoencoders for Network Intrusion Detection. Sensors. 2021; 21(13):4294. https://doi.org/10.3390/s21134294 (IF 3.576) <br>*[link](https://www.mdpi.com/1424-8220/21/13/4294)*
 2. Tae Jong Choi, Julian Togelius, Yun-Gyung Cheong, A Fast and Efficient Stochastic Opposition-Based Learning for Differential Evolution in Numerical Optimization, Swarm and Evolutionary Computation(2020) (IF 6.912)<br>*[link](https://www.sciencedirect.com/science/article/pii/S2210650220304211?via%3Dihub#!)*
 3. Tae Jong Choi, Julian Togelius, Yun-Gyung Cheong. Advanced Cauchy Mutation for Differential Evolution in Numerical Optimization. IEEE Access ( Volume: 8 ), 8720 - 8734, 06 January 2020, Electronic ISSN: 2169-3536. (IF: 3.745)<br>*[PDF](https://ieeexplore.ieee.org/document/8950112)*
